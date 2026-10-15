@@ -1,0 +1,34 @@
+{
+  "method": "Active HTML/JS asset graph only; gzipSync bytes. Not runtime performance.",
+  "before": [
+    {
+      "file": "index-DW2_Am0k.js",
+      "bytes": 381063,
+      "gzipBytes": 128972
+    },
+    {
+      "file": "index-jxhI6bJt.css",
+      "bytes": 51206,
+      "gzipBytes": 12430
+    }
+  ],
+  "after": [
+    {
+      "file": "coverflow-controller-sD4pqBYg.js",
+      "bytes": 118050,
+      "gzipBytes": 46705
+    },
+    {
+      "file": "index-0OQyIGpj.css",
+      "bytes": 53404,
+      "gzipBytes": 12869
+    },
+    {
+      "file": "index-DHP39ErP.js",
+      "bytes": 268999,
+      "gzipBytes": 84311
+    }
+  ],
+  "jsGzipDelta": 2044,
+  "cssGzipDelta": 439
+}

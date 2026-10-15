@@ -1,0 +1,24 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> john-system@1.0.0 test
+> node --test tests/m1.test.mjs
+
+✔ circular geometry: unique positions, continuous centre, bounded snap and tie direction (2.319874ms)
+✔ initialization failure keeps every real project and detail action available (93.557977ms)
+✔ buttons, direct selection, arrows/Home/End and rapid reversal share semantic selection (137.518557ms)
+✔ drag follows pointer, snaps on release; vertical gestures and cancel preserve selection (56.341316ms)
+✔ drag click suppression does not block next real pointer or keyboard detail action (50.779986ms)
+✔ focus moves before a focused card action becomes inert; controls retain their focus (55.155024ms)
+✔ reduced/short/narrow fallback and live mode rebuild preserve active project (231.337027ms)
+✔ StrictMode mount/unmount restores owned resources without removing unrelated observer (53.049642ms)
+✔ native fallback scrolling updates shared selection and preserves all detail actions (155.564135ms)
+✔ real GSAP controller restores styles/triggers and preserves an unrelated trigger in simulated DOM (46.921731ms)
+Evidence scope: simulated DOM/adapter tests; no browser layout, GPU, native gesture or accessibility pass is implied.
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1821.968462

@@ -1,0 +1,6 @@
+node_modules/
+.vite/
+npm-cache/
+.qa.html
+
+.m1-tests/
